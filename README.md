@@ -6,15 +6,16 @@
 -------------
 ## Objective
 -------------
-#### Develop a computer vision-powered system that monitors traffic, detects vehicles, estimates traffic density, and analyzes traffic patterns. The system will use techniques like object detection, tracking, and video analysis to provide actionable insights for traffic management.
+#### Develop a computer vision-powered system that monitors traffic, detects vehicles, estimates traffic density, and analyses traffic patterns. The system will use techniques like object detection, tracking, and video analysis to provide actionable insights for traffic management.
 --------------
 ## Learning Outcomes
 ---------------
 ### Understand computer vision techniques like object detection, tracking, and video analysis.
--* Explore deep learning models such as YOLO and OpenCV for traffic monitoring.
--* Learn to preprocess and analyse video data for traffic density estimation.
--* Gain experience in deploying computer vision models for real-time applications.
--* Develop skills in visualising and interpreting traffic data.
+
+1.  Explore deep learning models such as YOLO and OpenCV for traffic monitoring.
+2.  Learn to preprocess and analyse video data for traffic density estimation.
+3.  Gain experience in deploying computer vision models for real-time applications.
+4.  Develop skills in visualising and interpreting traffic data.
 --------------
 ## Step 1: Define the Problem
 ### Task:
