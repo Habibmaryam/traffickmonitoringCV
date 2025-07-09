@@ -18,5 +18,4 @@
 4.  Develop skills in visualising and interpreting traffic data.
 --------------
 ## Step 1: Define the Problem
-### Task:
-### Understand the problem and its real-world implications. Automating traffic monitoring using computer vision can improve traffic management, reduce congestion, and enhance road safety.
+### Computer vision is revolutionizing traffic management by enabling real-time monitoring, analysis, and decision-making at scale.  By automating vehicle detection, classification, and tracking through cameras and deep learning models, authorities can spot congestion, identify violations, and optimise traffic flow without human supervision. It helps reduce road accidents, improves traffic signal timing, and supports data-driven urban planning, making cities smarter and streets safer. With datasets like UA-DETRAC, systems become more robust and adaptable to real-world traffic conditions
